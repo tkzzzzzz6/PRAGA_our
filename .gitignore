@@ -1,0 +1,6 @@
+*.zip
+/Data
+*__pycache__
+/results
+run.bat
+command.md
